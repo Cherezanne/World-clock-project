@@ -1,5 +1,5 @@
 body {
-  background-color: #e1daf2;
+  background-color: #eabde1;
   font-family: sans-serif;
 }
 h1 {
@@ -14,19 +14,22 @@ h2 {
 
 select {
   display: block;
+  background-color: #ffffff65;
   width: 600px;
-  border-radius: 4px;
+  border-radius: 9px;
   padding: 10px;
   font-size: 14px;
+  letter-spacing: 1px;
+  font-weight: 600;
 }
 
 .container {
   max-width: 600px;
-  background: white;
+  background: rgba(241, 75, 169, 0.301);
   padding: 30px;
   box-shadow: rgb(100, 100, 111, 0.2) 8px 7px 29px 0px;
   margin: 60px auto;
-  border-radius: 10;
+  border-radius: 35px;
 }
 
 .city {
